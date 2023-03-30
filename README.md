@@ -1,6 +1,6 @@
 # Django Marketplace
 
-Django Marketplace is a simple e-commerce platform built with Django that allows users to buy and sell products in a manner similar to eBay. However, unlike eBay, buyers cannot directly purchase items from sellers on the platform. Instead, buyers must send a message to the seller expressing their interest in the item and negotiate a sale through private messages.
+Django Marketplace is a simple e-commerce platform built with Django that allows users to buy and sell products. However, buyers cannot directly purchase items from sellers on the platform. Instead, buyers must send a message to the seller expressing their interest in the item and negotiate a sale through private messages.
 
 The platform is designed to be user-friendly, with an intuitive interface that makes it easy to search for and browse items. Sellers can create listings for their products, set their own prices, and manage their inventory. Buyers can search for items by category, keyword, or seller, and can communicate with sellers directly through the platform's messaging system.
 
